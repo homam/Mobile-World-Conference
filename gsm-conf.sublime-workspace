@@ -1,0 +1,1152 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"request"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"cat",
+				"categories"
+			],
+			[
+				"high",
+				"highlighted-services"
+			],
+			[
+				"ser",
+				"service"
+			],
+			[
+				"see",
+				"service"
+			],
+			[
+				"Sev",
+				"service"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"selec",
+				"selected-services"
+			],
+			[
+				"serv",
+				"service"
+			],
+			[
+				"all",
+				"all-services"
+			],
+			[
+				"d3",
+				"d3selector"
+			],
+			[
+				"row",
+				"rows-data"
+			],
+			[
+				"lineOR",
+				"lineOrBar1"
+			],
+			[
+				"draw",
+				"draw-bar"
+			],
+			[
+				"vmap",
+				"vmaps"
+			],
+			[
+				"vm",
+				"vmaps"
+			],
+			[
+				"web",
+				"webOrWapFilter"
+			],
+			[
+				"cout",
+				"country-by-id"
+			],
+			[
+				"oper",
+				"operator-by-id"
+			],
+			[
+				"oc",
+				"oc-by-operator"
+			],
+			[
+				"se",
+				"sequenceA"
+			],
+			[
+				"loadM",
+				"load-months"
+			],
+			[
+				"valueM",
+				"valueMaps"
+			],
+			[
+				"val",
+				"valueMaps"
+			],
+			[
+				"max",
+				"maxdays"
+			],
+			[
+				"ext",
+				"extents"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"sequenc",
+				"sequenceA"
+			],
+			[
+				"c",
+				"callback"
+			],
+			[
+				"load-mon",
+				"load-month"
+			],
+			[
+				"load",
+				"load-months"
+			],
+			[
+				"meth",
+				"method"
+			],
+			[
+				"method",
+				"methodNames"
+			],
+			[
+				"metho",
+				"methodIds"
+			],
+			[
+				"s",
+				"subscribers"
+			],
+			[
+				"param",
+				"param-identity-val"
+			],
+			[
+				"parami",
+				"param-identity-val"
+			],
+			[
+				"name",
+				"nameValueMap"
+			],
+			[
+				"re-r",
+				"re-root-superCampaign"
+			],
+			[
+				"ret",
+				"re-root-country"
+			],
+			[
+				"rer",
+				"re-root-country"
+			],
+			[
+				"defau",
+				"defaultValue"
+			],
+			[
+				"test",
+				"tests"
+			],
+			[
+				"devi",
+				"device"
+			],
+			[
+				"chane",
+				"change-tree-ui"
+			],
+			[
+				"subsc",
+				"subscribers"
+			],
+			[
+				"ud",
+				"update-tree-from-ui"
+			],
+			[
+				"tr",
+				"tree-long-branches"
+			],
+			[
+				"change",
+				"change-tree-ui"
+			],
+			[
+				"upda",
+				"update-tree-from-ui"
+			],
+			[
+				"tree",
+				"treeChart"
+			],
+			[
+				"update",
+				"update-tree"
+			],
+			[
+				"api-",
+				"api-res-end"
+			],
+			[
+				"api",
+				"api-res-end"
+			],
+			[
+				"low",
+				"lower-case-data"
+			],
+			[
+				"coun",
+				"country"
+			],
+			[
+				"from",
+				"fromDate"
+			],
+			[
+				"get",
+				"get-stats"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"conc",
+				"conclude-test"
+			],
+			[
+				"emp",
+				"empty-stats"
+			],
+			[
+				"redu",
+				"reduce-tree"
+			],
+			[
+				"hard",
+				"hard-clone-no-children"
+			],
+			[
+				"reduc",
+				"reduce-tree-stats"
+			],
+			[
+				"chi",
+				"children"
+			],
+			[
+				"me",
+				"method"
+			],
+			[
+				"un",
+				"unique"
+			],
+			[
+				"su",
+				"Subscribers"
+			],
+			[
+				"mode",
+				"model_name"
+			],
+			[
+				"json",
+				"json2csv"
+			],
+			[
+				"sta",
+				"stats"
+			],
+			[
+				"wu",
+				"wurfl_fall_back"
+			],
+			[
+				"wur",
+				"wurfl_device_id"
+			],
+			[
+				"device",
+				"device_os"
+			],
+			[
+				"brand",
+				"brand_name"
+			],
+			[
+				"get-",
+				"get-test-stats"
+			],
+			[
+				"requ",
+				"request-json"
+			],
+			[
+				"pa",
+				"parse"
+			],
+			[
+				"methods",
+				"methods-str"
+			],
+			[
+				"met",
+				"methods"
+			],
+			[
+				"group",
+				"groups"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "views/home/index.ejs",
+			"settings":
+			{
+				"buffer_size": 800,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/GitHub/device-detection-client/views/home/index.ejs",
+			"settings":
+			{
+				"buffer_size": 4179,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "views/home/javascript/index.ls",
+			"settings":
+			{
+				"buffer_size": 483,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/GitHub/casper/01.js",
+			"settings":
+			{
+				"buffer_size": 161,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/GitHub/casper/02.js",
+			"settings":
+			{
+				"buffer_size": 1414,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "[General]\ncookies=@Variant(\\0\\0\\0\\x7f\\0\\0\\0\\x16QList<QNetworkCookie>\\0\\0\\0\\0\\x1\\0\\0\\0\\0)\n",
+			"file": "/C/GitHub/casper/cook.txt",
+			"file_size": 2371,
+			"file_write_time": 130346086497330740,
+			"settings":
+			{
+				"buffer_size": 89,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/GitHub/device-detection-client/views/home/javascript/index.ls",
+			"settings":
+			{
+				"buffer_size": 14763,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.ls",
+			"settings":
+			{
+				"buffer_size": 774,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/data/categories.json",
+			"settings":
+			{
+				"buffer_size": 3821,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/LiveScript.sublime-build",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build: Build"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: add r",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"dir",
+			"ls",
+			"build",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/GitHub/casper/cookies.txt",
+		"/C/GitHub/casperjs/batchbin/casperjs.ps1",
+		"/C/GitHub/casperjs/bin/01.js",
+		"/C/GitHub/casper/02.ks",
+		"/C/GitHub/gsm-conf/views/home/style/index.styl",
+		"/C/GitHub/gsm/categories.json",
+		"/C/Websites/ma/maAssets/TextResources/Website_.xml",
+		"/C/GitHub/macademy-stats/server/app/App_Data/usage-after-purchase.sql",
+		"/C/GitHub/macademy-stats/server/app/App_Data/users-visited-trial-chapter.sql",
+		"/C/GitHub/macademy-stats/server/app/App_Data/view-of-purchase.sql",
+		"/C/GitHub/macademy-stats/server/app/App_Data/visits-before-purchase-histogram.sql",
+		"/C/GitHub/macademy-stats/server/app/App_Data/appuser-at-purchase.sql",
+		"/C/GitHub/macademy-stats/server/app/App_Data/appuser-sources.sql",
+		"/C/GitHub/macademy-stats/server/app/App_Data/buyers-visited-trial-chapter.sql",
+		"/C/GitHub/macademy-stats/server/app/App_Data/iap-events-per-user.sql",
+		"/C/GitHub/macademy-stats/server/app/App_Data/iap-requests-before-purchase-histogram.sql",
+		"/C/GitHub/macademy-stats/server/app/App_Data/quick-stats.sql",
+		"/C/GitHub/macademy-stats/server/app/App_Data/iap-requests-histogram.sql",
+		"/C/Users/homam_000/Desktop/calculator_desktop-a444d8a55e274b5a0fbb70f4ff519884deffeb9b.js",
+		"/C/GitHub/viz/views/stacked/style/index.styl",
+		"/C/GitHub/viz/views/build-lsc.cmd",
+		"/C/GitHub/viz/views/home/javascript/header-controls.ls",
+		"/C/GitHub/viz/views/home/index.ejs",
+		"/C/GitHub/viz/views/home/javascript/graph-a-chart.ls",
+		"/C/GitHub/viz/views/home/javascript/index.ls",
+		"/C/GitHub/viz/views/home/javascript/graph-a-composite-chart.ls",
+		"/C/GitHub/viz/views/build-ls.cmd",
+		"/C/GitHub/viz/views/home/javascript/csv-operators.ls",
+		"/C/GitHub/viz/views/home/javascript/csv-billing.ls",
+		"/C/GitHub/viz/views/home/javascript/csv-unsub.ls",
+		"/C/GitHub/viz/views/home/javascript/csv-_.ls",
+		"/C/GitHub/viz/views/home/javascript/csv-arpu.ls",
+		"/C/GitHub/viz/views/home/javascript/utils.ls",
+		"/C/GitHub/viz/views/home/javascript/parse-csv.ls",
+		"/C/GitHub/viz/viz.sublime-project",
+		"/C/Users/homam_000/AppData/Roaming/Sublime Text 3/Packages/User/Stylus.sublime-build",
+		"/C/GitHub/device-detection-client/views/home/javascript/tree-map.ls",
+		"/C/GitHub/device-detection-client/views/home/style/index.styl",
+		"/C/GitHub/device-detection-client/views/home/javascript/tree-map-fontsize.js",
+		"/C/GitHub/device-detection-client/views/home/javascript/tree-longBranches.ls",
+		"/C/GitHub/device-detection-client/views/home/javascript/index.ls",
+		"/C/GitHub/device-detection-client/views/home/javascript/utils.ls",
+		"/C/GitHub/device-detection-client/views/home/javascript/index.js",
+		"/C/GitHub/device-detection-client/views/home/javascript/tree-map.js",
+		"/C/GitHub/device-detection-client/routes/index.ls",
+		"/C/GitHub/device-detection-client/stats/testsSummary.ls",
+		"/C/GitHub/device-detection-client/app.ls",
+		"/C/GitHub/device-detection-client/stats/stats.ls",
+		"/C/GitHub/device-detection-client/stats/treefy.ls",
+		"/C/GitHub/device-detection-client/device-detection.sublime-project",
+		"/C/Users/homam_000/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/homam_000/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/GitHub/device-detection-client/views/home/javascript/[cmd",
+		"/C/Users/homam_000/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/homam_000/AppData/Roaming/Sublime Text 3/Packages/User/LiveScript.sublime-build",
+		"/C/GitHub/device-detection-client/public/javascript/stats.ls",
+		"/C/GitHub/device-detection-client/public/javascript/fun.ls",
+		"/C/GitHub/device-detection-client/public/javascript/fun.js",
+		"/C/Users/homam_000/Desktop/ls/stats.js",
+		"/C/Users/homam_000/Desktop/ls/treefy.js",
+		"/C/Users/homam_000/Desktop/ls/flatten.ls",
+		"/C/Users/homam_000/Desktop/ls/test.ls",
+		"/C/Users/homam_000/Desktop/ls/nstats.ls",
+		"/C/Users/homam_000/Desktop/ls/concludeATest.ls",
+		"/C/GitHub/timeseries/charts/devicedet-controls/treemap-zoomable.coffee",
+		"/C/Users/homam_000/Desktop/ls/uae.js",
+		"/C/Users/homam_000/Desktop/ls/test.js",
+		"/C/Users/homam_000/Desktop/test.ls"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"568",
+			"320",
+			"1136",
+			"640",
+			"1280",
+			"chosen",
+			"Location",
+			"location",
+			"location:",
+			"first",
+			"ΓÇô",
+			"  ",
+			"'",
+			"\\'",
+			"'",
+			"\\n",
+			"X-Forwarded-For",
+			"b",
+			"composit",
+			"column",
+			"$vp",
+			"path",
+			"yAxis2",
+			"yAxis1",
+			"ticks",
+			"debo",
+			"raw",
+			"ticks",
+			"mappend",
+			"webWapFilter",
+			"vmap1",
+			"webOrWap",
+			"vmap",
+			"webWapFilter",
+			"name",
+			"oc-by-operator",
+			"operator-by-id",
+			"parse",
+			"load-month",
+			"$(",
+			"$.map",
+			"popula",
+			"value-map",
+			", value-map",
+			".subs",
+			"type",
+			"wap",
+			"with",
+			"listOfSubscriptioMethods",
+			"drag",
+			"cabce",
+			"cabcek",
+			"transitionDuration",
+			"axis",
+			"tree",
+			"color",
+			"conclude",
+			"++",
+			"ref",
+			"stats-tree",
+			"stats.",
+			"$",
+			".val()",
+			"element",
+			"chosen-me",
+			"countries",
+			"chosen(",
+			"chose",
+			"chosen()",
+			"update-Tree-fr",
+			"updateTreeFromUi",
+			"get-stats",
+			"uae",
+			"sor",
+			"100",
+			"selected-st",
+			"selected-s",
+			"d.data",
+			"color",
+			"append",
+			"fold-real-nodes",
+			"sqrt",
+			"pow",
+			"format-date",
+			"fold-real-nodes",
+			"update-all-nodes",
+			"kill-children",
+			"stats",
+			"sum-visits",
+			"shorten-wurfl-device-name",
+			"sor",
+			"render-method-stats",
+			"trace",
+			"console",
+			"sSelected",
+			"cSelected",
+			"sSelected",
+			"vSelected",
+			"kill-",
+			"build",
+			"+b",
+			"request",
+			"ref$",
+			"country-ids",
+			"get-country-id",
+			"hard-clone-without-children",
+			"hard-clone-no-children",
+			"reduce-tree-stats",
+			"hard-",
+			"d.",
+			"stats",
+			"from",
+			"create-test-standard",
+			"standard",
+			"methodGroups",
+			"groups",
+			"=2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"and",
+			"",
+			"\"",
+			"\\\"",
+			",\\n",
+			"listOfSubscriptionMethods",
+			"val",
+			"",
+			"it."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "views/home/index.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 800,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								800,
+								800
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/GitHub/device-detection-client/views/home/index.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1142,
+								1041
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "views/home/javascript/index.ls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								483,
+								483
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LiveScript.tmbundle/Syntaxes/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/GitHub/casper/01.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/GitHub/casper/02.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								865,
+								917
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 555.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/GitHub/casper/cook.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 89,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/GitHub/device-detection-client/views/home/javascript/index.ls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14763,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5104,
+								5149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LiveScript.tmbundle/Syntaxes/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2160.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app.ls",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								415,
+								415
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LiveScript.tmbundle/Syntaxes/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "public/data/categories.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 87.0
+	},
+	"project": "gsm-conf.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				".sty",
+				"views\\home\\style\\index.styl"
+			],
+			[
+				"index.ls",
+				"views\\home\\javascript\\index.ls"
+			],
+			[
+				".ejs",
+				"views\\home\\index.ejs"
+			],
+			[
+				"stacked/index.ejs",
+				"views\\stacked\\index.ejs"
+			],
+			[
+				"index",
+				"views\\stacked\\style\\index.styl"
+			],
+			[
+				"bui",
+				"views\\build-lsc.cmd"
+			],
+			[
+				"stacked/index.ls",
+				"views\\stacked\\javascript\\index.ls"
+			],
+			[
+				"buil",
+				"views\\build-ls.cmd"
+			],
+			[
+				"header",
+				"views\\home\\javascript\\header-controls.ls"
+			],
+			[
+				"index.ej",
+				"views\\home\\index.ejs"
+			],
+			[
+				"csv-un",
+				"views\\home\\javascript\\csv-unsub.ls"
+			],
+			[
+				"grapha",
+				"views\\home\\javascript\\graph-a-composite-chart.ls"
+			],
+			[
+				"graph",
+				"views\\home\\javascript\\graph-a-chart.ls"
+			],
+			[
+				"csv-o",
+				"views\\home\\javascript\\csv-operators.ls"
+			],
+			[
+				"csv_",
+				"views\\home\\javascript\\csv-_.ls"
+			],
+			[
+				"csv-ap",
+				"views\\home\\javascript\\csv-arpu.ls"
+			],
+			[
+				"csv-",
+				"views\\home\\javascript\\csv-billing.ls"
+			],
+			[
+				"_.",
+				"views\\home\\javascript\\csv-_.ls"
+			],
+			[
+				"csv-_",
+				"views\\home\\javascript\\csv-_.ls"
+			],
+			[
+				"csv-bi",
+				"views\\home\\javascript\\csv-billing.ls"
+			],
+			[
+				"ut",
+				"views\\home\\javascript\\utils.ls"
+			],
+			[
+				"csv",
+				"views\\home\\javascript\\csv-arpu.ls"
+			],
+			[
+				"index.je",
+				"views\\home\\index.ejs"
+			],
+			[
+				"cvp",
+				"views\\home\\javascript\\csv-operators.ls"
+			],
+			[
+				"util",
+				"views\\home\\javascript\\utils.ls"
+			],
+			[
+				"utils.ls",
+				"views\\home\\javascript\\utils.ls"
+			],
+			[
+				"index.sty",
+				"views\\home\\style\\index.styl"
+			],
+			[
+				"tree-ma",
+				"views\\home\\javascript\\tree-map.ls"
+			],
+			[
+				"inde",
+				"routes\\index.ls"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 161.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
