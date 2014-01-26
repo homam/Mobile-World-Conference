@@ -4,7 +4,7 @@ http = require 'http'
 
 app = express()
 app.use express.static '/.public'
-app.set 'port', (process.env.PORT or 3000)
+app.set 'port', (process.env.PORT or 3001)
 app.set 'views', __dirname + '/views'
 app.set 'view engine', 'ejs'
 app.use express.logger 'dev'

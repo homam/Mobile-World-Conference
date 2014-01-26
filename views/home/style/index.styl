@@ -2,5 +2,52 @@ body
 	background-color: white
 	font-family: sans-serif
 
+header, article
+	width: 600px
+	margin: auto
 #categories
 	width: 600px
+	margin: auto
+
+article
+	margin-top: 1em
+
+.exhibitor
+	font-size: 80%
+	border: solid 1px silver
+	border-bottom: 0
+	&:last-child
+		border-bottom: solid 1px silver
+	padding: 20px
+	margin: auto
+	max-width: 600px
+	h2
+		margin-top: 0
+		padding-top: 0
+	.web-country
+		> span
+			display: inline-block
+			width: 50%
+			&.country
+				text-align: right
+
+	.text
+		margin: 1em 0 0.5em 0
+		line-height: 140%
+
+	.categories
+		margin: 1em 0 1em 0
+		padding: 0
+		> li 
+			list-style-type: none;
+			margin: 0 0.5em 0.2em 0;
+			padding: 0.1em 0.2em;
+			display: inline-block;
+			background-color: #E4E4E4;
+
+	.location
+		&:before
+			content: 'Location: '
+
+
+
