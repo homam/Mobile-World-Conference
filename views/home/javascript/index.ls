@@ -33,6 +33,8 @@ render-exhibitors = (matched-exhibitors) ->
 categories <- $.get '/data/categories.json'
 exhibitors <- $.get '/data/list.json'
 
+$ \#loading .hide!
+
 $option = d3.select('#categories').selectAll('option').data(sort categories)
 	..enter().append('option')
 	..text id .attr 'value', id

@@ -1,0 +1,1 @@
+forever start -c lsc app.ls
